@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/d4be3c97aa3149639f9eb4c54cef6aeb/artifacts
+end_time: 1715011473967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4be3c97aa3149639f9eb4c54cef6aeb
+run_name: languid-stork-640
+run_uuid: d4be3c97aa3149639f9eb4c54cef6aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011472895
+status: 4
+tags: []
+user_id: shine

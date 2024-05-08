@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/f379a4b54716424685ff29e6260258dc/artifacts
+end_time: 1715011454212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f379a4b54716424685ff29e6260258dc
+run_name: secretive-tern-193
+run_uuid: f379a4b54716424685ff29e6260258dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011453252
+status: 4
+tags: []
+user_id: shine

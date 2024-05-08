@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/094cb577b43546e0b9c1825b72f40552/artifacts
+end_time: 1715011416536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094cb577b43546e0b9c1825b72f40552
+run_name: melodic-ant-881
+run_uuid: 094cb577b43546e0b9c1825b72f40552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011416532
+status: 4
+tags: []
+user_id: shine

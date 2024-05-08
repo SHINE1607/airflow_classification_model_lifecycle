@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715149139561
+current_stage: None
+description: null
+last_updated_timestamp: 1715149139561
+name: catboost_model_test_registry
+run_id: 7e75c2a5a19641bcb98ef6f215b1f37e
+run_link: null
+source: mlruns/0/7e75c2a5a19641bcb98ef6f215b1f37e/artifacts/model.pkl
+status: READY
+status_message: null
+storage_location: mlruns/0/7e75c2a5a19641bcb98ef6f215b1f37e/artifacts/model.pkl
+user_id: null
+version: 1

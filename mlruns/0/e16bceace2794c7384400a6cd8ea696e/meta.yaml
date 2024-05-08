@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e16bceace2794c7384400a6cd8ea696e/artifacts
+end_time: 1715021547741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16bceace2794c7384400a6cd8ea696e
+run_name: catboost_experiment_run
+run_uuid: e16bceace2794c7384400a6cd8ea696e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715021546828
+status: 3
+tags: []
+user_id: shine

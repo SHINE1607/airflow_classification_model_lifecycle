@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/f82d4824f7114e78b76dcd7158fd04a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f82d4824f7114e78b76dcd7158fd04a7
+run_name: secretive-pig-926
+run_uuid: f82d4824f7114e78b76dcd7158fd04a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715020757758
+status: 1
+tags: []
+user_id: shine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/b24db22b46c74286834b2422cc371698/artifacts
+end_time: 1715011724748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b24db22b46c74286834b2422cc371698
+run_name: salty-toad-941
+run_uuid: b24db22b46c74286834b2422cc371698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011723881
+status: 4
+tags: []
+user_id: shine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/0e8d8008a90442b98e0433f99dab31f8/artifacts
+end_time: 1715020207442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e8d8008a90442b98e0433f99dab31f8
+run_name: dapper-gull-252
+run_uuid: 0e8d8008a90442b98e0433f99dab31f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715020207439
+status: 4
+tags: []
+user_id: shine

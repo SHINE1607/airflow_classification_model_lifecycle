@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/c6142a7b7ce44151955505f28ff4e6ef/artifacts
+end_time: 1715011614831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6142a7b7ce44151955505f28ff4e6ef
+run_name: abundant-conch-596
+run_uuid: c6142a7b7ce44151955505f28ff4e6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011614825
+status: 4
+tags: []
+user_id: shine

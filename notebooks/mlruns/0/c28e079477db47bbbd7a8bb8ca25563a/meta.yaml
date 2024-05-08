@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/c28e079477db47bbbd7a8bb8ca25563a/artifacts
+end_time: 1715011639997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c28e079477db47bbbd7a8bb8ca25563a
+run_name: nosy-koi-176
+run_uuid: c28e079477db47bbbd7a8bb8ca25563a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011639155
+status: 4
+tags: []
+user_id: shine

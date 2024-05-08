@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/6f04a9ea96e9467197a62e8281ebfce5/artifacts
+end_time: 1715011703857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f04a9ea96e9467197a62e8281ebfce5
+run_name: calm-snake-576
+run_uuid: 6f04a9ea96e9467197a62e8281ebfce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011702780
+status: 4
+tags: []
+user_id: shine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shine/Documents/projects/finetune_llama3_with_ORPO/notebooks/mlruns/0/d713ae8feda74e56a770147d045b6914/artifacts
+end_time: 1715011427083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d713ae8feda74e56a770147d045b6914
+run_name: amusing-horse-91
+run_uuid: d713ae8feda74e56a770147d045b6914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715011425623
+status: 4
+tags: []
+user_id: shine

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef52f5a8f7584bcbb61bc9ecb302359d/artifacts
+end_time: 1715020359060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef52f5a8f7584bcbb61bc9ecb302359d
+run_name: fun-whale-15
+run_uuid: ef52f5a8f7584bcbb61bc9ecb302359d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715020358989
+status: 4
+tags: []
+user_id: shine

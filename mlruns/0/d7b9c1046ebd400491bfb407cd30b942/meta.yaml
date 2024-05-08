@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d7b9c1046ebd400491bfb407cd30b942/artifacts
+end_time: 1715020864136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7b9c1046ebd400491bfb407cd30b942
+run_name: aged-shrew-44
+run_uuid: d7b9c1046ebd400491bfb407cd30b942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715020862716
+status: 4
+tags: []
+user_id: shine
